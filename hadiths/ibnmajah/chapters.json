@@ -1,0 +1,233 @@
+{
+    "bookSlug": "ibnmajah",
+    "chapters": [
+        {
+            "id": 0,
+            "chapterNumber": "0",
+            "chapterEnglish": "The Book of the Sunnah",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 1,
+            "chapterNumber": "1",
+            "chapterEnglish": "The Book of Purification and its Sunnah",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 2,
+            "chapterNumber": "2",
+            "chapterEnglish": "The Book of the Prayer",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 3,
+            "chapterNumber": "3",
+            "chapterEnglish": "The Book of the Adhan and the Sunnah Regarding It",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 4,
+            "chapterNumber": "4",
+            "chapterEnglish": "The Book On The Mosques And The Congregations",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 5,
+            "chapterNumber": "5",
+            "chapterEnglish": "Establishing the Prayer and the Sunnah Regarding Them",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 6,
+            "chapterNumber": "6",
+            "chapterEnglish": "Chapters Regarding Funerals",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 7,
+            "chapterNumber": "7",
+            "chapterEnglish": "Fasting",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 8,
+            "chapterNumber": "8",
+            "chapterEnglish": "The Chapters Regarding Zakat",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 9,
+            "chapterNumber": "9",
+            "chapterEnglish": "The Chapters on Marriage",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 10,
+            "chapterNumber": "10",
+            "chapterEnglish": "The Chapters on Divorce",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 11,
+            "chapterNumber": "11",
+            "chapterEnglish": "The Chapters on Expiation",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 12,
+            "chapterNumber": "12",
+            "chapterEnglish": "The Chapters on Business Transactions",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 13,
+            "chapterNumber": "13",
+            "chapterEnglish": "The Chapters on Rulings",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 14,
+            "chapterNumber": "14",
+            "chapterEnglish": "The Chapters on Gifts",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 15,
+            "chapterNumber": "15",
+            "chapterEnglish": "The Chapters on Charity",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 16,
+            "chapterNumber": "16",
+            "chapterEnglish": "The Chapters on Pawning",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 17,
+            "chapterNumber": "17",
+            "chapterEnglish": "The Chapters on Pre-emption",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 18,
+            "chapterNumber": "18",
+            "chapterEnglish": "The Chapters on Lost Property",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 19,
+            "chapterNumber": "19",
+            "chapterEnglish": "The Chapters on Manumission (of Slaves)",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 20,
+            "chapterNumber": "20",
+            "chapterEnglish": "The Chapters on Legal Punishments",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 21,
+            "chapterNumber": "21",
+            "chapterEnglish": "The Chapters on Blood Money",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 22,
+            "chapterNumber": "22",
+            "chapterEnglish": "The Chapters on Wills",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 23,
+            "chapterNumber": "23",
+            "chapterEnglish": "Chapters on Shares of Inheritance",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 24,
+            "chapterNumber": "24",
+            "chapterEnglish": "The Chapters on Jihad",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 25,
+            "chapterNumber": "25",
+            "chapterEnglish": "Chapters on Hajj Rituals",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 26,
+            "chapterNumber": "26",
+            "chapterEnglish": "Chapters on Sacrifices",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 27,
+            "chapterNumber": "27",
+            "chapterEnglish": "Chapters on Slaughtering",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 28,
+            "chapterNumber": "28",
+            "chapterEnglish": "Chapters on Hunting",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 29,
+            "chapterNumber": "29",
+            "chapterEnglish": " Chapters on Food",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 30,
+            "chapterNumber": "30",
+            "chapterEnglish": "Chapters on Drinks",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 31,
+            "chapterNumber": "31",
+            "chapterEnglish": "Chapters on Medicine",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 32,
+            "chapterNumber": "32",
+            "chapterEnglish": "Chapters on Dress",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 33,
+            "chapterNumber": "33",
+            "chapterEnglish": "Etiquette",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 34,
+            "chapterNumber": "34",
+            "chapterEnglish": "Supplication",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 35,
+            "chapterNumber": "35",
+            "chapterEnglish": "Interpretation of Dreams",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 36,
+            "chapterNumber": "36",
+            "chapterEnglish": "Tribulations",
+            "bookSlug": "ibnmajah"
+        },
+        {
+            "id": 37,
+            "chapterNumber": "37",
+            "chapterEnglish": "Zuhd",
+            "bookSlug": "ibnmajah"
+        }
+    ]
+}

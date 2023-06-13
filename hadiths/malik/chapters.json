@@ -1,0 +1,371 @@
+{
+    "bookSlug": "malik",
+    "chapters": [
+        {
+            "id": 1,
+            "chapterNumber": "1",
+            "chapterEnglish": "The Times of Prayer",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 2,
+            "chapterNumber": "2",
+            "chapterEnglish": "Purity",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 3,
+            "chapterNumber": "3",
+            "chapterEnglish": "Prayer",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 4,
+            "chapterNumber": "4",
+            "chapterEnglish": "Forgetfulness in Prayer",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 5,
+            "chapterNumber": "5",
+            "chapterEnglish": "Jumu'a",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 6,
+            "chapterNumber": "6",
+            "chapterEnglish": "Prayer in Ramadan",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 7,
+            "chapterNumber": "7",
+            "chapterEnglish": "Tahajjud",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 8,
+            "chapterNumber": "8",
+            "chapterEnglish": "Prayer in Congregation",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 9,
+            "chapterNumber": "9",
+            "chapterEnglish": "Shortening the Prayer",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 10,
+            "chapterNumber": "10",
+            "chapterEnglish": "The Two 'Ids",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 11,
+            "chapterNumber": "11",
+            "chapterEnglish": "The Fear Prayer",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 12,
+            "chapterNumber": "12",
+            "chapterEnglish": "The Eclipse Prayer",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 13,
+            "chapterNumber": "13",
+            "chapterEnglish": "Asking for Rain",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 14,
+            "chapterNumber": "14",
+            "chapterEnglish": "The Qibla",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 15,
+            "chapterNumber": "15",
+            "chapterEnglish": "The Qur'an",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 16,
+            "chapterNumber": "16",
+            "chapterEnglish": "Burials",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 17,
+            "chapterNumber": "17",
+            "chapterEnglish": "Zakat",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 18,
+            "chapterNumber": "18",
+            "chapterEnglish": "Fasting",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 19,
+            "chapterNumber": "19",
+            "chapterEnglish": "I'tikaf in Ramadan",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 20,
+            "chapterNumber": "20",
+            "chapterEnglish": "Hajj",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 21,
+            "chapterNumber": "21",
+            "chapterEnglish": "Jihad",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 22,
+            "chapterNumber": "22",
+            "chapterEnglish": "Vows and Oaths",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 23,
+            "chapterNumber": "23",
+            "chapterEnglish": "Sacrificial Animals",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 24,
+            "chapterNumber": "24",
+            "chapterEnglish": "Slaughtering Animals",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 25,
+            "chapterNumber": "25",
+            "chapterEnglish": "Game",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 26,
+            "chapterNumber": "26",
+            "chapterEnglish": "The 'Aqiqa",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 27,
+            "chapterNumber": "27",
+            "chapterEnglish": "Fara'id",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 28,
+            "chapterNumber": "28",
+            "chapterEnglish": "Marriage",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 29,
+            "chapterNumber": "29",
+            "chapterEnglish": "Divorce",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 30,
+            "chapterNumber": "30",
+            "chapterEnglish": "Suckling",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 31,
+            "chapterNumber": "31",
+            "chapterEnglish": "Business Transactions",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 32,
+            "chapterNumber": "32",
+            "chapterEnglish": "Qirad",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 33,
+            "chapterNumber": "33",
+            "chapterEnglish": "Sharecropping",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 34,
+            "chapterNumber": "34",
+            "chapterEnglish": "Renting Land",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 35,
+            "chapterNumber": "35",
+            "chapterEnglish": "Pre-emption in Property",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 36,
+            "chapterNumber": "36",
+            "chapterEnglish": "Judgements",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 37,
+            "chapterNumber": "37",
+            "chapterEnglish": "Wills and Testaments",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 38,
+            "chapterNumber": "38",
+            "chapterEnglish": "Setting Free and Wala'",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 39,
+            "chapterNumber": "39",
+            "chapterEnglish": "The Mukatab",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 40,
+            "chapterNumber": "40",
+            "chapterEnglish": "The Mudabbar",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 41,
+            "chapterNumber": "41",
+            "chapterEnglish": "Hudud",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 42,
+            "chapterNumber": "42",
+            "chapterEnglish": "Drinks",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 43,
+            "chapterNumber": "43",
+            "chapterEnglish": "Blood-Money",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 44,
+            "chapterNumber": "44",
+            "chapterEnglish": "The Oath of Qasama",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 45,
+            "chapterNumber": "45",
+            "chapterEnglish": "Madina",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 46,
+            "chapterNumber": "46",
+            "chapterEnglish": "The Decree",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 47,
+            "chapterNumber": "47",
+            "chapterEnglish": "Good Character",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 48,
+            "chapterNumber": "48",
+            "chapterEnglish": "Dress",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 49,
+            "chapterNumber": "49",
+            "chapterEnglish": "The Description of the Prophet, may Allah Bless Him and Grant Him Peace",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 50,
+            "chapterNumber": "50",
+            "chapterEnglish": "The Evil Eye",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 51,
+            "chapterNumber": "51",
+            "chapterEnglish": "Hair",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 52,
+            "chapterNumber": "52",
+            "chapterEnglish": "Visions",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 53,
+            "chapterNumber": "53",
+            "chapterEnglish": "Greetings",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 54,
+            "chapterNumber": "54",
+            "chapterEnglish": "General Subjects",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 55,
+            "chapterNumber": "55",
+            "chapterEnglish": "The Oath of Allegiance",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 56,
+            "chapterNumber": "56",
+            "chapterEnglish": "Speech",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 57,
+            "chapterNumber": "57",
+            "chapterEnglish": "Jahannam",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 58,
+            "chapterNumber": "58",
+            "chapterEnglish": "Sadaqa",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 59,
+            "chapterNumber": "59",
+            "chapterEnglish": "Knowledge",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 60,
+            "chapterNumber": "60",
+            "chapterEnglish": "The Supplication of the Unjustly Wronged",
+            "bookSlug": "malik"
+        },
+        {
+            "id": 61,
+            "chapterNumber": "61",
+            "chapterEnglish": "The Names of the Prophet, may Allah Bless Him and Grant Him Peace",
+            "bookSlug": "malik"
+        }
+    ]
+}

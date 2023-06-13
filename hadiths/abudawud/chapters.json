@@ -1,0 +1,263 @@
+{
+    "bookSlug": "abudawud",
+    "chapters": [
+        {
+            "id": 1,
+            "chapterNumber": "1",
+            "chapterEnglish": "Purification (Kitab Al-Taharah)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 2,
+            "chapterNumber": "2",
+            "chapterEnglish": "Prayer (Kitab Al-Salat)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 3,
+            "chapterNumber": "3",
+            "chapterEnglish": "The Book Of The Prayer For Rain (Kitab al-Istisqa')",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 4,
+            "chapterNumber": "4",
+            "chapterEnglish": "Prayer (Kitab Al-Salat): Detailed Rules of Law about the Prayer during Journey",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 5,
+            "chapterNumber": "5",
+            "chapterEnglish": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 6,
+            "chapterNumber": "6",
+            "chapterEnglish": "Prayer (Kitab Al-Salat): Detailed Injunctions about Ramadan",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 7,
+            "chapterNumber": "7",
+            "chapterEnglish": "Prayer (Kitab Al-Salat): Prostration while reciting the Qur'an",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 8,
+            "chapterNumber": "8",
+            "chapterEnglish": "Prayer (Kitab Al-Salat): Detailed Injunctions about Witr",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 9,
+            "chapterNumber": "9",
+            "chapterEnglish": "Zakat (Kitab Al-Zakat)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 10,
+            "chapterNumber": "10",
+            "chapterEnglish": "The Book of Lost and Found Items",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 11,
+            "chapterNumber": "11",
+            "chapterEnglish": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 12,
+            "chapterNumber": "12",
+            "chapterEnglish": "Marriage (Kitab Al-Nikah)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 13,
+            "chapterNumber": "13",
+            "chapterEnglish": "Divorce (Kitab Al-Talaq)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 14,
+            "chapterNumber": "14",
+            "chapterEnglish": "Fasting (Kitab Al-Siyam)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 15,
+            "chapterNumber": "15",
+            "chapterEnglish": "Jihad (Kitab Al-Jihad)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 16,
+            "chapterNumber": "16",
+            "chapterEnglish": "Sacrifice (Kitab Al-Dahaya)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 17,
+            "chapterNumber": "17",
+            "chapterEnglish": "Game (Kitab Al-Said)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 18,
+            "chapterNumber": "18",
+            "chapterEnglish": "Wills (Kitab Al-Wasaya)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 19,
+            "chapterNumber": "19",
+            "chapterEnglish": "Shares of Inheritance (Kitab Al-Fara'id)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 20,
+            "chapterNumber": "20",
+            "chapterEnglish": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 21,
+            "chapterNumber": "21",
+            "chapterEnglish": "Funerals (Kitab Al-Jana'iz)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 22,
+            "chapterNumber": "22",
+            "chapterEnglish": "Oaths and Vows (Kitab Al-Aiman Wa Al-Nudhur)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 23,
+            "chapterNumber": "23",
+            "chapterEnglish": "Commercial Transactions (Kitab Al-Buyu)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 24,
+            "chapterNumber": "24",
+            "chapterEnglish": "Wages (Kitab Al-Ijarah)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 25,
+            "chapterNumber": "25",
+            "chapterEnglish": "The Office of the Judge (Kitab Al-Aqdiyah)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 26,
+            "chapterNumber": "26",
+            "chapterEnglish": "Knowledge (Kitab Al-Ilm)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 27,
+            "chapterNumber": "27",
+            "chapterEnglish": "Drinks (Kitab Al-Ashribah)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 28,
+            "chapterNumber": "28",
+            "chapterEnglish": "Foods (Kitab Al-At'imah)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 29,
+            "chapterNumber": "29",
+            "chapterEnglish": "Medicine (Kitab Al-Tibb)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 30,
+            "chapterNumber": "30",
+            "chapterEnglish": "Divination and Omens (Kitab Al-Kahanah Wa Al-Tatayyur)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 31,
+            "chapterNumber": "31",
+            "chapterEnglish": "The Book of Manumission of Slaves",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 32,
+            "chapterNumber": "32",
+            "chapterEnglish": "Dialects and Readings of the Qur'an (Kitab Al-Huruf Wa Al-Qira'at)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 33,
+            "chapterNumber": "33",
+            "chapterEnglish": "Hot Baths (Kitab Al-Hammam)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 34,
+            "chapterNumber": "34",
+            "chapterEnglish": "Clothing (Kitab Al-Libas)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 35,
+            "chapterNumber": "35",
+            "chapterEnglish": "Combing the Hair (Kitab Al-Tarajjul)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 36,
+            "chapterNumber": "36",
+            "chapterEnglish": "Signet-Rings (Kitab Al-Khatam)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 37,
+            "chapterNumber": "37",
+            "chapterEnglish": "Trials and Fierce Battles (Kitab Al-Fitan Wa Al-Malahim)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 38,
+            "chapterNumber": "38",
+            "chapterEnglish": "The Promised Deliverer (Kitab Al-Mahdi)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 39,
+            "chapterNumber": "39",
+            "chapterEnglish": "Battles (Kitab Al-Malahim)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 40,
+            "chapterNumber": "40",
+            "chapterEnglish": "Prescribed Punishments (Kitab Al-Hudud)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 41,
+            "chapterNumber": "41",
+            "chapterEnglish": "Types of Blood-Wit (Kitab Al-Diyat)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 42,
+            "chapterNumber": "42",
+            "chapterEnglish": "Model Behavior of the Prophet (Kitab Al-Sunnah)",
+            "bookSlug": "abudawud"
+        },
+        {
+            "id": 43,
+            "chapterNumber": "43",
+            "chapterEnglish": "General Behavior (Kitab Al-Adab)",
+            "bookSlug": "abudawud"
+        }
+    ]
+}

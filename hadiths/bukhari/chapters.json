@@ -1,0 +1,587 @@
+{
+    "bookSlug": "bukhari",
+    "chapters": [
+        {
+            "id": 1,
+            "chapterNumber": "1",
+            "chapterEnglish": "Revelation",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 2,
+            "chapterNumber": "2",
+            "chapterEnglish": "Belief",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 3,
+            "chapterNumber": "3",
+            "chapterEnglish": "Knowledge",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 4,
+            "chapterNumber": "4",
+            "chapterEnglish": "Ablutions (Wudu')",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 5,
+            "chapterNumber": "5",
+            "chapterEnglish": "Bathing (Ghusl)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 6,
+            "chapterNumber": "6",
+            "chapterEnglish": "Menstrual Periods",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 7,
+            "chapterNumber": "7",
+            "chapterEnglish": "Rubbing hands and feet with dust (Tayammum)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 8,
+            "chapterNumber": "8",
+            "chapterEnglish": "Prayers (Salat)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 9,
+            "chapterNumber": "9",
+            "chapterEnglish": "Times of the Prayers",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 10,
+            "chapterNumber": "10",
+            "chapterEnglish": "Call to Prayers (Adhaan)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 11,
+            "chapterNumber": "11",
+            "chapterEnglish": "Friday Prayer",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 12,
+            "chapterNumber": "12",
+            "chapterEnglish": "Fear Prayer",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 13,
+            "chapterNumber": "13",
+            "chapterEnglish": "The Two Festivals (Eids)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 14,
+            "chapterNumber": "14",
+            "chapterEnglish": "Witr Prayer",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 15,
+            "chapterNumber": "15",
+            "chapterEnglish": "Invoking Allah for Rain (Istisqaa)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 16,
+            "chapterNumber": "16",
+            "chapterEnglish": "Eclipses",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 17,
+            "chapterNumber": "17",
+            "chapterEnglish": "Prostration During Recital of Qur'an",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 18,
+            "chapterNumber": "18",
+            "chapterEnglish": "Shortening the Prayers (At-Taqseer)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 19,
+            "chapterNumber": "19",
+            "chapterEnglish": "Prayer at Night (Tahajjud)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 20,
+            "chapterNumber": "20",
+            "chapterEnglish": "Virtues of Prayer at Masjid Makkah and Madinah",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 21,
+            "chapterNumber": "21",
+            "chapterEnglish": "Actions while Praying",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 22,
+            "chapterNumber": "22",
+            "chapterEnglish": "Forgetfulness in Prayer",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 23,
+            "chapterNumber": "23",
+            "chapterEnglish": "Funerals (Al-Janaa'iz)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 24,
+            "chapterNumber": "24",
+            "chapterEnglish": "Obligatory Charity Tax (Zakat)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 25,
+            "chapterNumber": "25",
+            "chapterEnglish": "Hajj (Pilgrimage)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 26,
+            "chapterNumber": "26",
+            "chapterEnglish": "`Umrah (Minor pilgrimage)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 27,
+            "chapterNumber": "27",
+            "chapterEnglish": "Pilgrims Prevented from Completing the Pilgrimage",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 28,
+            "chapterNumber": "28",
+            "chapterEnglish": "Penalty of Hunting while on Pilgrimage",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 29,
+            "chapterNumber": "29",
+            "chapterEnglish": "Virtues of Madinah",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 30,
+            "chapterNumber": "30",
+            "chapterEnglish": "Fasting",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 31,
+            "chapterNumber": "31",
+            "chapterEnglish": "Praying at Night in Ramadaan (Taraweeh)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 32,
+            "chapterNumber": "32",
+            "chapterEnglish": "Virtues of the Night of Qadr",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 33,
+            "chapterNumber": "33",
+            "chapterEnglish": "Retiring to a Mosque for Remembrance of Allah (I'tikaf)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 34,
+            "chapterNumber": "34",
+            "chapterEnglish": "Sales and Trade",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 35,
+            "chapterNumber": "35",
+            "chapterEnglish": "Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 36,
+            "chapterNumber": "36",
+            "chapterEnglish": "Shuf'a",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 37,
+            "chapterNumber": "37",
+            "chapterEnglish": "Hiring",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 38,
+            "chapterNumber": "38",
+            "chapterEnglish": "Transferance of a Debt from One Person to Another (Al-Hawaala)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 39,
+            "chapterNumber": "39",
+            "chapterEnglish": "Kafalah",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 40,
+            "chapterNumber": "40",
+            "chapterEnglish": "Representation, Authorization, Business by Proxy",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 41,
+            "chapterNumber": "41",
+            "chapterEnglish": "Agriculture",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 42,
+            "chapterNumber": "42",
+            "chapterEnglish": "Distribution of Water",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 43,
+            "chapterNumber": "43",
+            "chapterEnglish": "Loans, Payment of Loans, Freezing of Property, Bankruptcy",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 44,
+            "chapterNumber": "44",
+            "chapterEnglish": "Khusoomaat",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 45,
+            "chapterNumber": "45",
+            "chapterEnglish": "Lost Things Picked up by Someone (Luqatah)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 46,
+            "chapterNumber": "46",
+            "chapterEnglish": "Oppressions",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 47,
+            "chapterNumber": "47",
+            "chapterEnglish": "Partnership",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 48,
+            "chapterNumber": "48",
+            "chapterEnglish": "Mortgaging",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 49,
+            "chapterNumber": "49",
+            "chapterEnglish": "Manumission of Slaves",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 50,
+            "chapterNumber": "50",
+            "chapterEnglish": "Makaatib",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 51,
+            "chapterNumber": "51",
+            "chapterEnglish": "Gifts",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 52,
+            "chapterNumber": "52",
+            "chapterEnglish": "Witnesses",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 53,
+            "chapterNumber": "53",
+            "chapterEnglish": "Peacemaking",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 54,
+            "chapterNumber": "54",
+            "chapterEnglish": "Conditions",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 55,
+            "chapterNumber": "55",
+            "chapterEnglish": "Wills and Testaments (Wasaayaa)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 56,
+            "chapterNumber": "56",
+            "chapterEnglish": "Fighting for the Cause of Allah (Jihaad)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 57,
+            "chapterNumber": "57",
+            "chapterEnglish": "One-fifth of Booty to the Cause of Allah (Khumus)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 58,
+            "chapterNumber": "58",
+            "chapterEnglish": "Jizyah and Mawaada'ah",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 59,
+            "chapterNumber": "59",
+            "chapterEnglish": "Beginning of Creation",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 60,
+            "chapterNumber": "60",
+            "chapterEnglish": "Prophets",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 61,
+            "chapterNumber": "61",
+            "chapterEnglish": "Virtues and Merits of the Prophet (pbuh) and his Companions",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 62,
+            "chapterNumber": "62",
+            "chapterEnglish": "Companions of the Prophet",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 63,
+            "chapterNumber": "63",
+            "chapterEnglish": "Merits of the Helpers in Madinah (Ansaar)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 64,
+            "chapterNumber": "64",
+            "chapterEnglish": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 65,
+            "chapterNumber": "65",
+            "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 66,
+            "chapterNumber": "66",
+            "chapterEnglish": "Virtues of the Qur'an",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 67,
+            "chapterNumber": "67",
+            "chapterEnglish": "Wedlock, Marriage (Nikaah)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 68,
+            "chapterNumber": "68",
+            "chapterEnglish": "Divorce",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 69,
+            "chapterNumber": "69",
+            "chapterEnglish": "Supporting the Family",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 70,
+            "chapterNumber": "70",
+            "chapterEnglish": "Food, Meals",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 71,
+            "chapterNumber": "71",
+            "chapterEnglish": "Sacrifice on Occasion of Birth (`Aqiqa)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 72,
+            "chapterNumber": "72",
+            "chapterEnglish": "Hunting, Slaughtering",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 73,
+            "chapterNumber": "73",
+            "chapterEnglish": "Al-Adha Festival Sacrifice (Adaahi)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 74,
+            "chapterNumber": "74",
+            "chapterEnglish": "Drinks",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 75,
+            "chapterNumber": "75",
+            "chapterEnglish": "Patients",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 76,
+            "chapterNumber": "76",
+            "chapterEnglish": "Medicine",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 77,
+            "chapterNumber": "77",
+            "chapterEnglish": "Dress",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 78,
+            "chapterNumber": "78",
+            "chapterEnglish": "Good Manners and Form (Al-Adab)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 79,
+            "chapterNumber": "79",
+            "chapterEnglish": "Asking Permission",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 80,
+            "chapterNumber": "80",
+            "chapterEnglish": "Invocations",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 81,
+            "chapterNumber": "81",
+            "chapterEnglish": "To make the Heart Tender (Ar-Riqaq)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 82,
+            "chapterNumber": "82",
+            "chapterEnglish": "Divine Will (Al-Qadar)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 83,
+            "chapterNumber": "83",
+            "chapterEnglish": "Oaths and Vows",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 84,
+            "chapterNumber": "84",
+            "chapterEnglish": "Expiation for Unfulfilled Oaths",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 85,
+            "chapterNumber": "85",
+            "chapterEnglish": "Laws of Inheritance (Al-Faraa'id)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 86,
+            "chapterNumber": "86",
+            "chapterEnglish": "Limits and Punishments set by Allah (Hudood)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 87,
+            "chapterNumber": "87",
+            "chapterEnglish": "Blood Money (Ad-Diyat)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 88,
+            "chapterNumber": "88",
+            "chapterEnglish": "Apostates",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 89,
+            "chapterNumber": "89",
+            "chapterEnglish": "(Statements made under) Coercion",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 90,
+            "chapterNumber": "90",
+            "chapterEnglish": "Tricks",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 91,
+            "chapterNumber": "91",
+            "chapterEnglish": "Interpretation of Dreams",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 92,
+            "chapterNumber": "92",
+            "chapterEnglish": "Afflictions and the End of the World",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 93,
+            "chapterNumber": "93",
+            "chapterEnglish": "Judgments (Ahkaam)",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 94,
+            "chapterNumber": "94",
+            "chapterEnglish": "Wishes",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 95,
+            "chapterNumber": "95",
+            "chapterEnglish": "Accepting Information Given by a Truthful Person",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 96,
+            "chapterNumber": "96",
+            "chapterEnglish": "Holding Fast to the Qur'an and Sunnah",
+            "bookSlug": "bukhari"
+        },
+        {
+            "id": 97,
+            "chapterNumber": "97",
+            "chapterEnglish": "Oneness, Uniqueness of Allah (Tawheed)",
+            "bookSlug": "bukhari"
+        }
+    ]
+}

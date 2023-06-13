@@ -1,0 +1,299 @@
+{
+    "bookSlug": "tirmidhi",
+    "chapters": [
+        {
+            "id": 1,
+            "chapterNumber": "1",
+            "chapterEnglish": "The Book on Purification",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 2,
+            "chapterNumber": "2",
+            "chapterEnglish": "The Book on Salat (Prayer)",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 3,
+            "chapterNumber": "3",
+            "chapterEnglish": "The Book on Al-Witr",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 4,
+            "chapterNumber": "4",
+            "chapterEnglish": "The Book on the Day of Friday",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 5,
+            "chapterNumber": "5",
+            "chapterEnglish": "The Book on the Two Eids",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 6,
+            "chapterNumber": "6",
+            "chapterEnglish": "The Book on Traveling",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 7,
+            "chapterNumber": "7",
+            "chapterEnglish": "The Book on Zakat",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 8,
+            "chapterNumber": "8",
+            "chapterEnglish": "The Book on Fasting",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 9,
+            "chapterNumber": "9",
+            "chapterEnglish": "The Book on Hajj",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 10,
+            "chapterNumber": "10",
+            "chapterEnglish": "The Book on Jana''iz (Funerals)",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 11,
+            "chapterNumber": "11",
+            "chapterEnglish": "The Book on Marriage",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 12,
+            "chapterNumber": "12",
+            "chapterEnglish": "The Book on Suckling",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 13,
+            "chapterNumber": "13",
+            "chapterEnglish": "The Book on Divorce and Li'an",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 14,
+            "chapterNumber": "14",
+            "chapterEnglish": "The Book on Business",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 15,
+            "chapterNumber": "15",
+            "chapterEnglish": "The Chapters On Judgements From The Messenger of Allah",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 16,
+            "chapterNumber": "16",
+            "chapterEnglish": "The Book on Blood Money",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 17,
+            "chapterNumber": "17",
+            "chapterEnglish": "The Book on Legal Punishments (Al-Hudud)",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 18,
+            "chapterNumber": "18",
+            "chapterEnglish": "The Book on Hunting",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 19,
+            "chapterNumber": "19",
+            "chapterEnglish": "The Book on Sacrifices",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 20,
+            "chapterNumber": "20",
+            "chapterEnglish": "The Book on Vows and Oaths",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 21,
+            "chapterNumber": "21",
+            "chapterEnglish": "The Book on Military Expeditions",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 22,
+            "chapterNumber": "22",
+            "chapterEnglish": "The Book on Virtues of Jihad",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 23,
+            "chapterNumber": "23",
+            "chapterEnglish": "The Book on Jihad",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 24,
+            "chapterNumber": "24",
+            "chapterEnglish": "The Book on Clothing",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 25,
+            "chapterNumber": "25",
+            "chapterEnglish": "The Book on Food",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 26,
+            "chapterNumber": "26",
+            "chapterEnglish": "The Book on Drinks",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 27,
+            "chapterNumber": "27",
+            "chapterEnglish": "Chapters on Righteousness And Maintaining Good Relations With Relatives",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 28,
+            "chapterNumber": "28",
+            "chapterEnglish": "Chapters on Medicine",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 29,
+            "chapterNumber": "29",
+            "chapterEnglish": "Chapters On Inheritance",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 30,
+            "chapterNumber": "30",
+            "chapterEnglish": "Chapters On Wasaya (Wills and Testament)",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 31,
+            "chapterNumber": "31",
+            "chapterEnglish": "Chapters On Wala' And Gifts",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 32,
+            "chapterNumber": "32",
+            "chapterEnglish": "Chapters On Al-Qadar",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 33,
+            "chapterNumber": "33",
+            "chapterEnglish": "Chapters On Al-Fitan",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 34,
+            "chapterNumber": "34",
+            "chapterEnglish": "Chapters On Dreams",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 35,
+            "chapterNumber": "35",
+            "chapterEnglish": "Chapters On Witnesses",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 36,
+            "chapterNumber": "36",
+            "chapterEnglish": "Chapters On Zuhd",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 37,
+            "chapterNumber": "37",
+            "chapterEnglish": "Chapters on the description of the Day of Judgement, Ar-Riqaq, and Al-Wara'",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 38,
+            "chapterNumber": "38",
+            "chapterEnglish": "Chapters on the description of Paradise",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 39,
+            "chapterNumber": "39",
+            "chapterEnglish": "The Book on the Description of Hellfire",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 40,
+            "chapterNumber": "40",
+            "chapterEnglish": "The Book on Faith",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 41,
+            "chapterNumber": "41",
+            "chapterEnglish": "Chapters on Knowledge",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 42,
+            "chapterNumber": "42",
+            "chapterEnglish": "Chapters on Seeking Permission",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 43,
+            "chapterNumber": "43",
+            "chapterEnglish": "Chapters on Manners",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 44,
+            "chapterNumber": "44",
+            "chapterEnglish": "Chapters on Parables",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 45,
+            "chapterNumber": "45",
+            "chapterEnglish": "Chapters on The Virtues of the Qur'an",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 46,
+            "chapterNumber": "46",
+            "chapterEnglish": "Chapters on Recitation",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 47,
+            "chapterNumber": "47",
+            "chapterEnglish": "Chapters on Tafsir",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 48,
+            "chapterNumber": "48",
+            "chapterEnglish": "Chapters on Supplication",
+            "bookSlug": "tirmidhi"
+        },
+        {
+            "id": 49,
+            "chapterNumber": "49",
+            "chapterEnglish": "Chapters on Virtues",
+            "bookSlug": "tirmidhi"
+        }
+    ]
+}

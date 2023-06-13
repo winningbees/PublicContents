@@ -1,0 +1,347 @@
+{
+    "bookSlug": "muslim",
+    "chapters": [
+        {
+            "id": 0,
+            "chapterNumber": "0",
+            "chapterEnglish": "Introduction",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 1,
+            "chapterNumber": "1",
+            "chapterEnglish": "The Book of Faith",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 2,
+            "chapterNumber": "2",
+            "chapterEnglish": "The Book of Purification",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 3,
+            "chapterNumber": "3",
+            "chapterEnglish": "The Book of Menstruation",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 4,
+            "chapterNumber": "4",
+            "chapterEnglish": "The Book of Prayers ",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 5,
+            "chapterNumber": "5",
+            "chapterEnglish": "The Book of Mosques and Places of Prayer",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 6,
+            "chapterNumber": "6",
+            "chapterEnglish": "The Book of Prayer - Travellers",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 7,
+            "chapterNumber": "7",
+            "chapterEnglish": "The Book of Prayer - Friday",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 8,
+            "chapterNumber": "8",
+            "chapterEnglish": "The Book of Prayer - Two Eids",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 9,
+            "chapterNumber": "9",
+            "chapterEnglish": "The Book of Prayer - Rain",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 10,
+            "chapterNumber": "10",
+            "chapterEnglish": "The Book of Prayer - Eclipses",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 11,
+            "chapterNumber": "11",
+            "chapterEnglish": "The Book of Prayer - Funerals",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 12,
+            "chapterNumber": "12",
+            "chapterEnglish": "The Book of Zakat",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 13,
+            "chapterNumber": "13",
+            "chapterEnglish": "The Book of Fasting ",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 14,
+            "chapterNumber": "14",
+            "chapterEnglish": "The Book of I'tikaf",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 15,
+            "chapterNumber": "15",
+            "chapterEnglish": "The Book of Pilgrimage",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 16,
+            "chapterNumber": "16",
+            "chapterEnglish": "The Book of Marriage",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 17,
+            "chapterNumber": "17",
+            "chapterEnglish": "The Book of Suckling",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 18,
+            "chapterNumber": "18",
+            "chapterEnglish": "The Book of Divorce ",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 19,
+            "chapterNumber": "19",
+            "chapterEnglish": "The Book of Invoking Curses",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 20,
+            "chapterNumber": "20",
+            "chapterEnglish": "The Book of Emancipating Slaves",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 21,
+            "chapterNumber": "21",
+            "chapterEnglish": "The Book of Transactions",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 22,
+            "chapterNumber": "22",
+            "chapterEnglish": "The Book of Musaqah",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 23,
+            "chapterNumber": "23",
+            "chapterEnglish": "The Book of the Rules of Inheritance",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 24,
+            "chapterNumber": "24",
+            "chapterEnglish": "The Book of Gifts",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 25,
+            "chapterNumber": "25",
+            "chapterEnglish": "The Book of Wills",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 26,
+            "chapterNumber": "26",
+            "chapterEnglish": "The Book of Vows",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 27,
+            "chapterNumber": "27",
+            "chapterEnglish": "The Book of Oaths",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 28,
+            "chapterNumber": "28",
+            "chapterEnglish": "The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 29,
+            "chapterNumber": "29",
+            "chapterEnglish": "The Book of Legal Punishments",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 30,
+            "chapterNumber": "30",
+            "chapterEnglish": "The Book of Judicial Decisions",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 31,
+            "chapterNumber": "31",
+            "chapterEnglish": "The Book of Lost Property",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 32,
+            "chapterNumber": "32",
+            "chapterEnglish": "The Book of Jihad and Expeditions",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 33,
+            "chapterNumber": "33",
+            "chapterEnglish": "The Book on Government",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 34,
+            "chapterNumber": "34",
+            "chapterEnglish": "The Book of Hunting, Slaughter, and what may be Eaten",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 35,
+            "chapterNumber": "35",
+            "chapterEnglish": "The Book of Sacrifices",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 36,
+            "chapterNumber": "36",
+            "chapterEnglish": "The Book of Drinks",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 37,
+            "chapterNumber": "37",
+            "chapterEnglish": "The Book of Clothes and Adornment",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 38,
+            "chapterNumber": "38",
+            "chapterEnglish": "The Book of Manners and Etiquette",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 39,
+            "chapterNumber": "39",
+            "chapterEnglish": "The Book of Greetings",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 40,
+            "chapterNumber": "40",
+            "chapterEnglish": "The Book Concerning the Use of Correct Words",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 41,
+            "chapterNumber": "41",
+            "chapterEnglish": "The Book of Poetry",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 42,
+            "chapterNumber": "42",
+            "chapterEnglish": "The Book of Dreams",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 43,
+            "chapterNumber": "43",
+            "chapterEnglish": "The Book of Virtues",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 44,
+            "chapterNumber": "44",
+            "chapterEnglish": "The Book of the Merits of the Companions",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 45,
+            "chapterNumber": "45",
+            "chapterEnglish": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 46,
+            "chapterNumber": "46",
+            "chapterEnglish": "The Book of Destiny",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 47,
+            "chapterNumber": "47",
+            "chapterEnglish": "The Book of Knowledge",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 48,
+            "chapterNumber": "48",
+            "chapterEnglish": "The Book Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness ",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 49,
+            "chapterNumber": "49",
+            "chapterEnglish": "The Book of Heart-Melting Traditions",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 50,
+            "chapterNumber": "50",
+            "chapterEnglish": "The Book of Repentance",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 51,
+            "chapterNumber": "51",
+            "chapterEnglish": "Characteristics of The Hypocrites And Rulings Concerning Them",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 52,
+            "chapterNumber": "52",
+            "chapterEnglish": "Characteristics of the Day of Judgment, Paradise, and Hell",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 53,
+            "chapterNumber": "53",
+            "chapterEnglish": "The Book of Paradise, its Description, its Bounties and its Inhabitants",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 54,
+            "chapterNumber": "54",
+            "chapterEnglish": "The Book of Tribulations and Portents of the Last Hour",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 55,
+            "chapterNumber": "55",
+            "chapterEnglish": "The Book of Zuhd and Softening of Hearts ",
+            "bookSlug": "muslim"
+        },
+        {
+            "id": 56,
+            "chapterNumber": "56",
+            "chapterEnglish": "The Book of Commentary on the Qur'an",
+            "bookSlug": "muslim"
+        }
+    ]
+}

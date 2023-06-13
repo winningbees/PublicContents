@@ -1,0 +1,311 @@
+{
+    "bookSlug": "nasai",
+    "chapters": [
+        {
+            "id": 1,
+            "chapterNumber": "1",
+            "chapterEnglish": "The Book of Purification",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 2,
+            "chapterNumber": "2",
+            "chapterEnglish": "The Book of Water",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 3,
+            "chapterNumber": "3",
+            "chapterEnglish": "The Book of Menstruation and Istihadah",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 4,
+            "chapterNumber": "4",
+            "chapterEnglish": "The Book of Ghusl and Tayammum",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 5,
+            "chapterNumber": "5",
+            "chapterEnglish": "The Book of Salah",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 6,
+            "chapterNumber": "6",
+            "chapterEnglish": "The Book of the Times (of Prayer)",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 7,
+            "chapterNumber": "7",
+            "chapterEnglish": "The Book of the Adhan (The Call to Prayer)",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 8,
+            "chapterNumber": "8",
+            "chapterEnglish": "The Book of the Masjids",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 9,
+            "chapterNumber": "9",
+            "chapterEnglish": "The Book of the Qiblah",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 10,
+            "chapterNumber": "10",
+            "chapterEnglish": "The Book of Leading the Prayer (Al-Imamah)",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 11,
+            "chapterNumber": "11",
+            "chapterEnglish": "The Book of the Commencement of the Prayer",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 12,
+            "chapterNumber": "12",
+            "chapterEnglish": "The Book of The At-Tatbiq (Clasping One's Hands Together)",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 13,
+            "chapterNumber": "13",
+            "chapterEnglish": "The Book of Forgetfulness (In Prayer)",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 14,
+            "chapterNumber": "14",
+            "chapterEnglish": "The Book of Jumu'ah (Friday Prayer)",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 15,
+            "chapterNumber": "15",
+            "chapterEnglish": "The Book of Shortening the Prayer When Traveling",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 16,
+            "chapterNumber": "16",
+            "chapterEnglish": "The Book of Eclipses",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 17,
+            "chapterNumber": "17",
+            "chapterEnglish": "The Book of Praying for Rain (Al-Istisqa')",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 18,
+            "chapterNumber": "18",
+            "chapterEnglish": "The Book of the Fear Prayer",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 19,
+            "chapterNumber": "19",
+            "chapterEnglish": "The Book of the Prayer for the Two 'Eids",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 20,
+            "chapterNumber": "20",
+            "chapterEnglish": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 21,
+            "chapterNumber": "21",
+            "chapterEnglish": "The Book of Funerals",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 22,
+            "chapterNumber": "22",
+            "chapterEnglish": "The Book of Fasting",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 23,
+            "chapterNumber": "23",
+            "chapterEnglish": "The Book of Zakah",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 24,
+            "chapterNumber": "24",
+            "chapterEnglish": "The Book of Hajj",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 25,
+            "chapterNumber": "25",
+            "chapterEnglish": "The Book of Jihad",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 26,
+            "chapterNumber": "26",
+            "chapterEnglish": "The Book of Marriage",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 27,
+            "chapterNumber": "27",
+            "chapterEnglish": "The Book of Divorce",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 28,
+            "chapterNumber": "28",
+            "chapterEnglish": "The Book of Horses, Races and Shooting",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 29,
+            "chapterNumber": "29",
+            "chapterEnglish": "The Book of Endowments",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 30,
+            "chapterNumber": "30",
+            "chapterEnglish": "The Book of Wills",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 31,
+            "chapterNumber": "31",
+            "chapterEnglish": "The Book of Presents",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 32,
+            "chapterNumber": "32",
+            "chapterEnglish": "The Book of Gifts",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 33,
+            "chapterNumber": "33",
+            "chapterEnglish": "The Book of ar-Ruqba",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 34,
+            "chapterNumber": "34",
+            "chapterEnglish": "The Book of 'Umra",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 35,
+            "chapterNumber": "35",
+            "chapterEnglish": "The Book of Agriculture",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 36,
+            "chapterNumber": "36",
+            "chapterEnglish": "The Book of the Kind Treatment of Women",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 37,
+            "chapterNumber": "37",
+            "chapterEnglish": "The Book of Fighting [The Prohibition of Bloodshed]",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 38,
+            "chapterNumber": "38",
+            "chapterEnglish": "The Book of Distribution of Al-Fay'",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 39,
+            "chapterNumber": "39",
+            "chapterEnglish": "The Book of al-Bay'ah",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 40,
+            "chapterNumber": "40",
+            "chapterEnglish": "The Book of al-'Aqiqah",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 41,
+            "chapterNumber": "41",
+            "chapterEnglish": "The Book of al-Fara' and al-'Atirah",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 42,
+            "chapterNumber": "42",
+            "chapterEnglish": "The Book of Hunting and Slaughtering",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 43,
+            "chapterNumber": "43",
+            "chapterEnglish": "The Book of ad-Dahaya (Sacrifices)",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 44,
+            "chapterNumber": "44",
+            "chapterEnglish": "The Book of Financial Transactions",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 45,
+            "chapterNumber": "45",
+            "chapterEnglish": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 46,
+            "chapterNumber": "46",
+            "chapterEnglish": "The Book of Cutting off the Hand of the Thief",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 47,
+            "chapterNumber": "47",
+            "chapterEnglish": "The Book Of Faith and its Signs",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 48,
+            "chapterNumber": "48",
+            "chapterEnglish": "The Book of Adornment",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 49,
+            "chapterNumber": "49",
+            "chapterEnglish": "The Book of the Etiquette of Judges",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 50,
+            "chapterNumber": "50",
+            "chapterEnglish": "The Book of Seeking Refuge with Allah",
+            "bookSlug": "nasai"
+        },
+        {
+            "id": 51,
+            "chapterNumber": "51",
+            "chapterEnglish": "The Book of Drinks",
+            "bookSlug": "nasai"
+        }
+    ]
+}
