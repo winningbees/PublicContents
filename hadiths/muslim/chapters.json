@@ -2,12 +2,6 @@
     "bookSlug": "muslim",
     "chapters": [
         {
-            "id": 0,
-            "chapterNumber": "0",
-            "chapterEnglish": "Introduction",
-            "bookSlug": "muslim"
-        },
-        {
             "id": 1,
             "chapterNumber": "1",
             "chapterEnglish": "The Book of Faith",
